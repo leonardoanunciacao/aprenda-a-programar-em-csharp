@@ -12,3 +12,4 @@
 /Users/leonardoanunciacao/csharp-course/aprenda-a-programar-em-csharp/obj/Debug/net8.0/aprenda-a-programar-em-csharp.pdb
 /Users/leonardoanunciacao/csharp-course/aprenda-a-programar-em-csharp/obj/Debug/net8.0/aprenda-a-programar-em-csharp.genruntimeconfig.cache
 /Users/leonardoanunciacao/csharp-course/aprenda-a-programar-em-csharp/obj/Debug/net8.0/ref/aprenda-a-programar-em-csharp.dll
+/Users/leonardoanunciacao/csharp-course/aprenda-a-programar-em-csharp/obj/Debug/net8.0/aprenda-a-programar-em-csharp.sourcelink.json
